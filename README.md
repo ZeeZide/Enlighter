@@ -5,4 +5,4 @@
 
 Bug tracking and public information for the "Code for SQLite" application.
 
-FOSS repo: [Lighter](https://github/com/Lighter/).
+FOSS repo: [Lighter](https://github/com/Lighter-swift/).
